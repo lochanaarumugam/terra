@@ -14,3 +14,4 @@ module "sqs" {
   environment            = var.environment
   project                = var.project
 }
+
